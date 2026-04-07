@@ -4,7 +4,8 @@ An interactive sales dashboard built with Power BI analyzing 9,994 retail
 transactions from a US superstore (2014–2017).
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+<img width="757" height="445" alt="image" src="https://github.com/user-attachments/assets/7125e1f6-6583-47b8-a93b-b3326d0996a9" />
+
 
 ## Key Insights
 - Technology is the top-performing category by revenue
