@@ -1,29 +1,40 @@
 # Sales Performance Dashboard | Power BI
 
-An interactive sales dashboard built with Power BI analyzing 9,994 retail 
+An interactive 3-page Power BI dashboard analyzing 9,994 retail 
 transactions from a US superstore (2014–2017).
 
-## Dashboard Preview
-<img width="757" height="445" alt="image" src="https://github.com/user-attachments/assets/7125e1f6-6583-47b8-a93b-b3326d0996a9" />
+## Pages
+**Page 1 — Sales Performance**
+- KPI cards: Total Sales ($2.3M), Total Profit ($286K), Profit Margin (12.47%)
+- Monthly sales trend line chart with year slicer
+- Sales breakdown by product category
+  <img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/68d4af29-5c17-40fd-a63d-415d0a3180d5" />
 
+
+**Page 2 — Product Analysis**
+- Sales vs Profit comparison by Sub-Category
+- Identified Tables as high-revenue but near-zero profit product
+- Category slicer (Furniture / Office Supplies / Technology)
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/74496b24-5565-48dd-869a-ddc1721e1df9" />
+
+**Page 3 — Region Analysis**
+- US map with bubble size representing sales by State
+- West region leads in total revenue across all 4 years
+- Region slicer for dynamic filtering
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/c3aa197c-05f5-4206-a791-bc1f6fb30e0f" />
 
 ## Key Insights
 - Technology is the top-performing category by revenue
+- Tables sub-category shows high sales but negative profit margin
+- West region generates the highest revenue but profit margins remain low across all regions
 - Sales show consistent year-over-year growth from 2014 to 2017
-- Overall profit margin sits at 12.47%
-
-## Features
-- Dynamic year slicer (2014–2017)
-- Monthly sales trend line chart
-- KPI cards: Total Sales, Total Profit, Profit Margin
-- Sales breakdown by product category
 
 ## Tools & Skills
 - Power BI Desktop
-- DAX (DIVIDE, SUM, CALENDAR)
+- DAX (SUM, DIVIDE, CALENDAR)
 - Power Query (data cleaning, type formatting)
-- Data modeling (Star Schema, table relationships)
+- Data modeling (Star Schema, Date Table, table relationships)
 
 ## Dataset
 - Source: Superstore Sales Dataset (Kaggle)
-- 9,994 rows | 21 columns | 4 regions | 3 product categories
+- 9,994 rows | 21 columns | 4 regions | 3 product categories | 2014–2017
