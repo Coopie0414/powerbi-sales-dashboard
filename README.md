@@ -8,8 +8,7 @@ transactions from a US superstore (2014–2017).
 - KPI cards: Total Sales ($2.3M), Total Profit ($286K), Profit Margin (12.47%)
 - Monthly sales trend line chart with year slicer
 - Sales breakdown by product category
-  <img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/68d4af29-5c17-40fd-a63d-415d0a3180d5" />
-
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/68d4af29-5c17-40fd-a63d-415d0a3180d5" />
 
 **Page 2 — Product Analysis**
 - Sales vs Profit comparison by Sub-Category
