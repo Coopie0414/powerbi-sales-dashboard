@@ -28,6 +28,11 @@ transactions from a US superstore (2014–2017).
 - West region generates the highest revenue but profit margins remain low across all regions
 - Sales show consistent year-over-year growth from 2014 to 2017
 
+## Recommendations
+- Discontinue or reprice Tables sub-category to address negative profit margin
+- Increase marketing investment in West region given highest revenue contribution
+- Focus Q4 promotions on Technology category which drives highest revenue
+
 ## Tools & Skills
 - Power BI Desktop
 - DAX (SUM, DIVIDE, CALENDAR)
